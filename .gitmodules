@@ -1,0 +1,6 @@
+[submodule "reactjs-express-frontend"]
+	path = reactjs-express-frontend
+	url = https://www.github.com/chinobv/reactjs-express-frontend
+[submodule "reactjs-express-backend"]
+	path = reactjs-express-backend
+	url = https://www.github.com/chinobv/reactjs-express-backend
